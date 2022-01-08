@@ -1,9 +1,9 @@
 # Discord-Latency-Checker
 ## A Simple Tool to check latency of different Discord endpoints.
-### Runtime: Deno
-### Runtime Version: 1.13.2
-### Language: typescript
-### Language Version: 4.3.5
+Runtime: Deno
+Runtime Version: 1.13.2
+Language: typescript
+Language Version: 4.3.5
 
 [![homepage][1]][2]
 
