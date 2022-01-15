@@ -1,6 +1,8 @@
 import Discord from './Discord.ts';
-var title = 'Discord Latency Checker by https://github.com/Titan3301'
-console.log(title);
+var title = 'cmd /c title Discord Latency Checker by https://github.com/Titan3301'
+Deno.run({
+	cmd:title.split(' ')
+})
 function findstr(In:string,split:string,s:string):string {
     var IN = In.split(split);
     for (var i = 0; i < IN.length; i ++) {
